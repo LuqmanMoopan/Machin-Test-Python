@@ -19,5 +19,5 @@ urlpatterns = [
 #("/api/register/")
 #("/api/login/")
 #("/api/rides/")
-#(http://127.0.0.1:8000/api/rides/<pk>/update_status/)
-#(http://127.0.0.1:8000/api/rides/<pk>/update_location/)
+#("/api/rides/<pk>/update_status/)
+#("/api/rides/<pk>/update_location/)
